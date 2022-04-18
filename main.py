@@ -17,8 +17,8 @@ month = now.month
 day = now.day
 random_number = random.randint(1, 3)
 
-My_email = "dnurmamatoff@gmail.com"
-my_password = "akmal69!@#"
+My_email = "******f@gmail.com"
+my_password = "********"
 
 for person in data:
     if person["month"] == month and day == person["day"]:
